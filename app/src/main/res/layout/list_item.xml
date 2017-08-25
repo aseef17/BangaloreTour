@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:padding="8dp">
+
+    <com.vatsal.imagezoomer.ImageZoomButton
+        android:id="@+id/image_view"
+        tools:src="@drawable/fun_1"
+        android:layout_width="160dp"
+        android:layout_height="180dp"
+        android:scaleType="centerCrop"
+
+       />
+
+
+    <TextView
+        android:id="@+id/header_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/image_view"
+        android:paddingLeft="16dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        tools:text="Header text"/>
+
+    <LinearLayout
+        android:id="@+id/phone_number_layout_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header_text_view"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/image_view"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/phone_ic"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            tools:src="@drawable/ic_call_black_24dp"
+             />
+
+        <TextView
+            android:id="@+id/phone_number_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="12dp"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="123456789" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/address_layout_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/phone_number_layout_view"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/image_view"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/map_ic"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center"
+            tools:src="@drawable/ic_directions_black_24dp"
+             />
+
+        <TextView
+            android:id="@+id/address_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="12dp"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="#119 , M.S.Palya " />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/website_layout_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/address_layout_view"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="15dp"
+        android:layout_toRightOf="@+id/image_view"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/http_ic"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center"
+            tools:src="@drawable/ic_http_black_24dp"
+            />
+
+        <TextView
+            android:id="@+id/website_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="12dp"
+            android:autoLink="web"
+            android:textAppearance="?android:textAppearanceSmall"
+            tools:text="www.google.com" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/description_text_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/image_view"
+        android:layout_marginTop="24dp"
+        android:textStyle="italic"
+        android:textAppearance="?android:textAppearanceMedium"
+        tools:text="Description text of the place that you should visit and waste some time there. This  is getting to be too long, but I have to write enough text to test my code." />
+
+</RelativeLayout>

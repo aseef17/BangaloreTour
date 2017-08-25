@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">BangaloreTour</string>
+
+    <string name="catergory_fun">fun</string>
+    <string name="category_restaurants">Food</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_highlights">Highlights</string>
+
+
+    <string name="restaurant_1_header">Karavalli</string>
+    <string name="restaurant_1_phone">080666 04545</string>
+    <string name="restaurant_1_address">The Gateway Hotel, 66, Ground Floor,The Gateway Hotel, 560025</string>
+    <string name="restaurant_1_description">Dishes from across India\'s south west appear on the menu of this classical hotel restaurant.</string>
+    <string name="restaurant_1_website"></string>
+    <string name="restaurant_2_header">Barbeque Nation</string>
+    <string name="restaurant_2_phone">080 6060 0000</string>
+    <string name="restaurant_2_address">4005, 100 Feet Rd, Stage 2, HAL, 560038</string>
+    <string name="restaurant_2_description">Live music, good service and the best barbecue place in bangalore</string>
+    <string name="restaurant_2_website">www.barbeque-nation.com</string>
+    <string name="restaurant_3_header">Truffles</string>
+    <string name="restaurant_3_phone">080 6060 0000</string>
+    <string name="restaurant_3_address">93/A, 4th B Cross Rd, Industrial Layout, Koramangala,560095</string>
+    <string name="restaurant_3_description">A go to place for students to professionals to families.The food is right amount of taste and price.Truffles is the highlight of every college group</string>
+    <string name="restaurant_3_website"></string>
+    <string name="restaurant_4_header">Glen\'s Bakehouse</string>
+    <string name="restaurant_4_phone">080 41124894</string>
+    <string name="restaurant_4_address"> 24, Lavelle Road, Shanthala Nagar, Ashok Nagar, 560001</string>
+    <string name="restaurant_4_description">A real cozy and a must try place in posh p[arts of bangalore.Glen\'s has an equal veg and non-veg menu.The cakes and sundaes are to die for.The pizza\'s are equally delicious</string>
+    <string name="restaurant_4_website"></string>
+    <string name="restaurant_5_header">Smallys</string>
+    <string name="restaurant_5_phone">080887 37737</string>
+    <string name="restaurant_5_address">LG09, Sky Walk,Assaye Rd,5th Block,Pulikeshi Nagar,560008</string>
+    <string name="restaurant_5_description">Brick walls and eclectic design give a funky edge to this international restaurant and lounge bar.</string>
+    <string name="restaurant_5_website">smallysrestocafe.com</string>
+
+    <string name="fun_1_header">Wonderla</string>
+    <string name="fun_1_phone">080 2201 0333</string>
+    <string name="fun_1_address">28th k.m., Mysore Road, 562109</string>
+    <string name="fun_1_description">Amusement park with roller coasters, a ferris wheel and water rides, plus virtual reality experiences.</string>
+    <string name="fun_1_website">www.wonderla.com</string>
+    <string name="fun_2_header">Grips Gokarting and Bowling</string>
+    <string name="fun_2_phone">098450 11007</string>
+    <string name="fun_2_address">Survey No. 68, Anchepalya, Mysore Road, 560074</string>
+    <string name="fun_2_description">If you are looking for some adernaline rush and like to burn rubber on asphalt this is the place. Grips Gokarting is the only place in Bangalore which boasts of a very well designed multi-level track, with interesting corners</string>
+    <string name="fun_2_website">www.gripsgokarting.com</string>
+    <string name="fun_3_header">bluO</string>
+    <string name="fun_3_phone">088616 88800</string>
+    <string name="fun_3_address">Orion Mall, 4th Floor, Brigade Orion Mall, Dr Rajkumar Road,560055</string>
+    <string name="fun_3_description">Simply speaking what T-20 has done to the sport of cricket in India, bluO has done the same to the sport of bowling. In other words, bluO is a concoction of fun + bowling, world cuisine, music, adventure coming together</string>
+    <string name="fun_3_website">www.pvrbluo.com</string>
+    <string name="fun_4_header">Snow City</string>
+    <string name="fun_4_phone">080 2355 00003</string>
+    <string name="fun_4_address"> 5, Jayamahal, Fun World Complex, Opposite TV Tower, J C Nagar, 560006</string>
+    <string name="fun_4_description">Ice and snow-themed indoor amusement park featuring frozen slides, rides and other family activities.</string>
+    <string name="fun_4_website">snowcityblr.com</string>
+    <string name="fun_5_header">Fun World</string>
+    <string name="fun_5_phone">088616 55993</string>
+    <string name="fun_5_address">Palace Grounds, Opposite to TV Tower, J.C.Nagar,560006</string>
+    <string name="fun_5_description">An Amusement park for everyone, we are home to some the best thrill seeking enthusiast for the daredevils, exciting rides for the little fun seekers and rides that the entire family can enjoy. You can enjoy rides like tsunami, rollercoaster, The curse of the black pearl, the Yahooooo slide, the bumper car and lots more.</string>
+    <string name="fun_5_website">www.funworldblr.com</string>
+
+    <string name="parks_1_header">Lal Bagh</string>
+    <string name="parks_1_phone">080 2657 8184</string>
+    <string name="parks_1_address">lal bagh,560004</string>
+    <string name="parks_1_description">Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southern Bengaluru.</string>
+    <string name="parks_1_website">www.horticulture.kar.nic.in/lalbagh.htm</string>
+    <string name="parks_2_header">Cubbon Park</string>
+    <string name="parks_2_phone">080 2286 4125</string>
+    <string name="parks_2_address">Cubbon park,560001</string>
+    <string name="parks_2_description">Cubbon Park is a landmark \'lung\' area of the Bengaluru city, located within the heart of city in the Central Administrative Area.</string>
+    <string name="parks_2_website">www.horticulture.kar.nic.in/cubbon.htm</string>
+    <string name="parks_3_header">JP Park</string>
+    <string name="parks_3_phone">099807 32429</string>
+    <string name="parks_3_address"> 22/1, Tank Bund Rd, Brindavan Nagar, Mathikere,560054</string>
+    <string name="parks_3_description">City greenspace with walking/jogging paths, a swimming pool, a musical fountain and play equipment.</string>
+    <string name="parks_3_website"></string>
+    <string name="parks_4_header">Sankey tank</string>
+    <string name="parks_4_phone">080 2361 7979</string>
+    <string name="parks_4_address">Sankey Tank,560080</string>
+    <string name="parks_4_description">A perfect place for nature lovers to have a few moments amidst refreshing nature and calm surroundings, lake also attracts visitors who are looking for some fun filled activities.</string>
+    <string name="parks_4_website">bangaloretourism.in/sankey-tank-bangalore</string>
+    <string name="parks_5_header">Lumbini Garden</string>
+    <string name="parks_5_phone">093410 31409</string>
+    <string name="parks_5_address">Nagawara Lake, Ring Road, Hebbal,560045</string>
+    <string name="parks_5_description">Lumbini Gardens is a public park on the banks of the Nagawara Lake in Bangalore, Karnataka, India named after Lumbini of Nepal dedicated to Lord Buddha.</string>
+    <string name="parks_5_website">https://lumbinigardens.com</string>
+
+    <string name="highlights_1_header">Bangalore Palace</string>
+    <string name="highlights_1_phone">080085 37122</string>
+    <string name="highlights_1_address">Bangalore Palace, Palace Road, 560052</string>
+    <string name="highlights_1_description">Bangalore Palace, a palace located in Bengaluru, Karnataka, India, was built by Rev. J. Garrett, who was the first Principal of the Central High School in Bangalore, now known as Central College</string>
+    <string name="highlights_1_website">bangaloretourism.in/bangalore-palace</string>
+    <string name="highlights_2_header">Vidhana Soudha</string>
+    <string name="highlights_2_phone"></string>
+    <string name="highlights_2_address">Vidhana Soudha, Ambedkar Veedhi, Sampangi Rama Nagar,560001</string>
+    <string name="highlights_2_description">The Vidhana Soudha located in Bengaluru, is the seat of the state legislature of Karnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian,and incorporates elements of Indo-Saracenic and Dravidian styles. The construction was completed in 1956.</string>
+    <string name="highlights_2_website"></string>
+    <string name="highlights_3_header">Nandi Hills</string>
+    <string name="highlights_3_phone"></string>
+    <string name="highlights_3_address">Nandi hills</string>
+    <string name="highlights_3_description">Nandi Hills or Nandi betta is an ancient hill fortress in southern India, in the Chikkaballapur district of Karnataka state. It is 10 km from Chickballapur town and approximately 60 km from the city of Bengaluru.</string>
+    <string name="highlights_3_website"></string>
+    <string name="highlights_4_header">ISKCON Temple</string>
+    <string name="highlights_4_phone">080 2347 1956</string>
+    <string name="highlights_4_address">Hare Krishna Hill, Rajaji Nagar,560010</string>
+    <string name="highlights_4_description">Sri Radha Krishna Temple has deities of Radha and Krishna located at Rajajinagar, in North Bangalore, Karnataka, India. It is one of the largest ISKCON temples in the world.</string>
+    <string name="highlights_4_website">https://www.iskconbangalore.org/</string>
+    <string name="highlights_5_header">Innovative Film City</string>
+    <string name="highlights_5_phone">080 2209 9999</string>
+    <string name="highlights_5_address">24 and 26, Kiadb Estates, Bidadi, 562109</string>
+    <string name="highlights_5_description">Movie studio and amusement park featuring reality TV set tours and several family-oriented attractions.</string>
+    <string name="highlights_5_website">innovativefilmcity.in/</string>
+
+
+
+</resources>
